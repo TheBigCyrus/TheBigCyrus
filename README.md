@@ -12,7 +12,7 @@ Hello, I'm Kourosh, a passionate **Backend Developer** who enjoys building scala
 
 ### 📫 Contact Me
 Feel free to reach out!  
-- 🌐 **[FirstKourosh](https://github.com/FirstKourosh)**
+- 🌐 **[FirstKourosh](https://t.me/FirstKourosh)**
 
 ---
 
@@ -26,10 +26,3 @@ Feel free to reach out!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL" />
 </div>
 
----
-
-### ⭐ Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FirstKourosh&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FirstKourosh&theme=radical" height="150" alt="GitHub Streak" />
-</div>
